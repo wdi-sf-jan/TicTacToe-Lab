@@ -45,7 +45,8 @@ Today we will be making a Tic Tac Toe game using all of this.
 ## Ultra Bonus
 * We once had a student implement an Artifical Intelligence (AI)
   opponent. If you really need a challenge, write some code that will
-  play a game of Tic Tac Toe against you.
+  play a game of Tic Tac Toe against you. (Hint: look into the minimax
+  algorithm).
 
 ## Resources
 
