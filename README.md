@@ -46,3 +46,9 @@ Today we will be making a Tic Tac Toe game using all of this.
 * We once had a student implement an Artifical Intelligence (AI)
   opponent. If you really need a challenge, write some code that will
   play a game of Tic Tac Toe against you.
+
+## Resources
+
+* [DOM Notes](https://github.com/wdi-sf-jan/notes/tree/master/dom)
+* [DOM Event Notes](https://github.com/wdi-sf-jan/notes/blob/master/dom/events.md)
+* [dom_lab solutions](https://github.com/wdi-sf-jan/dom_lab/blob/master/app.js)
