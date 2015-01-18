@@ -40,6 +40,7 @@ function addXorO(event){
     }
   // if the counter is greater than or equal to 10, the game is a draw!
   if (counter >= 10){
+    turnText.innerHTML = "Game Over!";
     var conf = confirm("It's a draw, do you want to play again?");
     if(conf){
       resetBoard();
