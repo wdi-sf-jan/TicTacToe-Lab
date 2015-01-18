@@ -1,0 +1,33 @@
+table {
+  margin: 0 auto;
+}
+td {
+  border: 1px solid black;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  font-size: 8em;
+}
+
+.container, .playerTurn {
+  text-align: center;
+}
+
+#reset {
+  padding: 10px;
+  width: 400px;
+  font-size: 3em;
+  margin-bottom: 10px;
+}
+
+.X {
+  background: red;
+}
+
+.O {
+  background: blue;
+}
+
+.clear {
+  background: white;
+}
